@@ -1,3 +1,3 @@
 # ESP-8266
-ESP8266 sending data to the server, deepSleep
+ESP8266_deepSleep_MQTT_OTA.ino
 В таком виде скетч ничего не отправляет в сеть, только в сериал порт
